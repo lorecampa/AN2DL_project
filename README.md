@@ -2,7 +2,7 @@
 
 ## Download datasets
 
-Put public_data.npz dataset on the homework_01/dataset folder
+Put public_data.npz dataset on the homework_01/initial_dataset folder, not included for space limits
 
 ## Unix/MacOS
 
