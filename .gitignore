@@ -1,3 +1,4 @@
 env/
 homework_01/dataset/public_data.npz
 homework_01/models/*
+homework_01/processed_data.npz
